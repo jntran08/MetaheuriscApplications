@@ -1,5 +1,4 @@
 #basic hill climbing search provided as base code for the DSA/ISE 5113 course
-#author: Charles Nicholson
 
 #NOTE: YOU MAY CHANGE ALMOST ANYTHING YOU LIKE IN THIS CODE.  
 #However, I would like all students to have the same problem instance, therefore please do not change anything relating to:
@@ -9,7 +8,6 @@
 #   weight limit of the knapsack
 
 #------------------------------------------------------------------------------
-#HW4P4: Local Search With Best Improvements
 #Student name: Ngoc Tran
 #Date: 04/01/2020
 
