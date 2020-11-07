@@ -15,6 +15,10 @@ BFS is a search approach and not just a single algorithm, so there are many best
 
 #2 Hill Climb with First Improvements
 
+Hill climbing (HC) is a general search strategy (so it's also not just an algorithm!). HC algorithms are greedy local search algorithms, i.e. they typically only find local optima (as opposed to global optima) and they do that greedily (i.e. they do not look ahead). The idea behind HC algorithms is that of moving (or climbing) in the direction of increasing value. HC algorithms can be used to solve optimization problems and not just well-defined search problems, i.e. you start from some solution and you move to the best neighboring solution, and then loop.
+
+
+
 
 
 
