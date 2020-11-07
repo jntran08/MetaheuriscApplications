@@ -11,6 +11,8 @@ K-flip Neighborhood functions are implied. The basic code provides the 1-flip ne
 
 #1 Hill Climb with Best Search
 
+BFS is a search approach and not just a single algorithm, so there are many best-first (BFS) algorithms, such as greedy BFS, A* and B*. BFS algorithms are informed search algorithms, as opposed to uninformed search algorithms (such as breadth-first search, depth-first search, etc.), i.e. BFS algorithms make use of domain knowledge that can be encoded into a so-called heuristic function (that's why they are informed!).
+
 #2 Hill Climb with First Improvements
 
 
